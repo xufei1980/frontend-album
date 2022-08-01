@@ -33,9 +33,9 @@ input,
 select,
 textarea {
   background-color: #f8f9fa;
-  font-family: "Inter",system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
-    "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 h1,
 h2,
@@ -97,9 +97,9 @@ table {
 
 .album-header {
   display: flex;
-  flex:0 1 auto;
+  flex: 0 1 auto;
   justify-content: center;
-  background-color:black;
+  background-color: black;
   font-size: 20px;
   color: white;
   line-height: 40px;
